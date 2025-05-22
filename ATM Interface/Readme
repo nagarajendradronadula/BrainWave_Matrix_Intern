@@ -1,0 +1,37 @@
+🚀 Here's a Project Showcase: Brain Wave Matrix - ATM Interface 💳 (Java)
+
+I’m excited to share my recent project built entirely in Java — a fully functional ATM Interface that simulates the core features of an Automated Teller Machine! 🏦
+
+
+💻 Tech Stack Used:
+ • Java (Core Concepts: OOPs, Control Flow, Collections)
+ • Java’s Date & Time API (LocalDateTime, DateTimeFormatter)
+ • Scanner for user input
+ • HashMap for transaction history tracking
+
+
+🛠️ Features:
+
+✅ Deposit Money – Add funds to your account and view updated balance.
+✅ Withdraw Money – Safely withdraw money (with balance validation).
+✅ Check Balance – Instantly see your current account balance.
+✅ Transaction History – Displays a timestamped log of all deposits and withdrawals.
+✅ Looped Interface – Keeps the session running until the user chooses to exit.
+
+
+📋 How It Works:
+ • Upon running the program, users are greeted with a simple console-based menu.
+ • Users can choose to Deposit, Withdraw, Check Balance, View Transactions, or Exit.
+ • Every transaction is time-stamped and stored using a HashMap for quick and clear transaction tracking.
+
+
+🔁 The system is interactive and menu-driven, making it beginner-friendly for those new to Java or interested in understanding how basic banking logic works in software systems.
+
+
+🎯 Why I Built This?
+To solidify my understanding of Java fundamentals, user input handling, and collection frameworks while building a project that’s simple, relatable, and practical.
+
+
+📌 If you’re learning Java and want to work on beginner-friendly, real-world simulations, this kind of project is a great starting point and you can also connect with me!
+
+Feel free to connect or drop your feedback/suggestions. 😊
